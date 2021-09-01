@@ -47,7 +47,7 @@ Twitter: @__m_sakasa
 
 当サービス、又は個人情報の取扱いに関しては、下記にてお問い合わせください。
 
-当サービス運営者： Pickles
+当サービス運営者： Pickles  
 Twitter: @__m_sakasa
 
 
