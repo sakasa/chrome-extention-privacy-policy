@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## プライバシーポリシー
 
 本プライバシーポリシーは、Google Chrome拡張機能 「Kintai Post with Moneyforward Attendance」（以下、当サービス）において、使用者の個人情報もしくはそれに準ずる情報を取り扱う際に、当サービスが遵守する方針を示したものです。
 
