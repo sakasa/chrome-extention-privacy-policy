@@ -1,38 +1,60 @@
-
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sakasa/chrome-extention-privacy-policy/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+本プライバシーポリシーは、Google Chrome拡張機能 「Kintai Post with Moneyforward Attendance」（以下、当サービス）において、使用者の個人情報もしくはそれに準ずる情報を取り扱う際に、当サービスが遵守する方針を示したものです。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 基本方針
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+当サービスは、個人情報の重要性を認識し、個人情報を保護することが社会的責務であると考え、個人情報に関する法令を遵守し、当サービスで取扱う個人情報の取得、利用、管理を適正に行います。当サービスで収集した情報は、利用目的の範囲内で適切に取り扱います。
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 個人情報の管理
 
-- Bulleted
-- List
+当サービスは、訪問者からご提供いただいた情報の管理について、以下を徹底します。
 
-1. Numbered
-2. List
+1. 情報の正確性の確保
 
-**Bold** and _Italic_ and `Code` text
+訪問者からご提供いただいた情報については、常に正確かつ最新の情報となるよう努めます。
 
-[Link](url) and ![Image](src)
-```
+2. 安全管理措置
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+当サイトは、個人情報の漏えいや滅失又は棄損を防止するために、適切なセキリュティ対策を実施して個人情報を保護します。
 
-### Jekyll Themes
+3. 個人情報の廃棄
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sakasa/chrome-extention-privacy-policy/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+個人情報が不要となった場合には、すみやかに廃棄します。
 
-### Support or Contact
+4. 個人情報の開示、訂正、追加、削除、利用停止
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+訪問者ご本人からの個人情報の開示、訂正、追加、削除、利用停止のご希望の場合には、ご本人であることを確認させていただいた上、速やかに対応させていただきます。
+
+上記を希望される場合は、以下のメールアドレスまでお問い合わせください。
+
+Twitter: @__m_sakasa
+
+
+### 個人情報の第三者への提供について
+
+当サイトは、訪問者からご提供いただいた個人情報を、訪問者本人の同意を得ることなく第三者に提供することはありません。また、今後第三者提供を行うことになった場合には、提供する情報と提供目的などを提示し、訪問者から同意を得た場合のみ第三者提供を行います。
+
+
+### 未成年の個人情報について
+
+未成年者がお問い合わせフォームから問い合わせをされたりする場合は必ず親権者の同意を得るものとし、コメントやお問い合わせをされた時点で、当プライバシーポリシーに対して親権者の同意があるものとみなします。
+
+
+### お問い合わせ先
+
+当サービス、又は個人情報の取扱いに関しては、下記にてお問い合わせください。
+
+当サービス運営者： Pickles
+Twitter: @__m_sakasa
+
+
+### プライバシーポリシーの変更について
+
+当サービスは、個人情報に関して適用される日本の法令を遵守するとともに、本プライバシーポリシーの内容を適宜見直しその改善に努めます。修正された最新のプライバシーポリシーは常に本ページにて開示されます。
+
+
+---
+平成29年4月20日　策定
